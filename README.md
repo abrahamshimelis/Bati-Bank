@@ -13,20 +13,3 @@ The product built in this project will have the following features:
 3. **Risk Probability Model**: Develop a model that assigns risk probability for a new customer.
 
 4. **Credit Score Assignment**: Develop a model that assigns credit score from risk probability estimates.
-
-5. **Loan Optimization Model**: Develop a model that predicts the optimal amount and duration of the loan.
-
-## Getting Started
-To get started with this project, you'll need to have a basic understanding of Machine Learning and Data Analysis. You'll also need to install some software. More details will be provided in the Installation section.
-
-## Installation
-Details about the required software and how to install them will be provided here.
-
-## Usage
-Instructions on how to use the product will be provided here.
-
-## Contributing
-Details on how to contribute to this project will be provided here.
-
-## License
-Information about the project's license will be provided here.
